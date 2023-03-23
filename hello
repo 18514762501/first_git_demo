@@ -1,0 +1,33 @@
+git clone <url>      克隆远程仓库
+
+git checkout -b    创建新分支
+
+git checkout     切换
+
+git pull    拉去新代码
+
+git push   推送
+
+git remote add origin <url        关联原创仓库
+git clone <url>      克隆远程仓库
+
+git checkout -b    创建新分支
+
+git checkout     切换
+
+git pull    拉去新代码
+
+git push   推送
+
+git remote add origin <url        关联原创仓库
+git clone <url>      克隆远程仓库
+
+git checkout -b    创建新分支
+
+git checkout     切换
+
+git pull    拉去新代码
+
+git push   推送
+
+git remote add origin <url        关联原创仓库
